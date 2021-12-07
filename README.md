@@ -4,7 +4,9 @@ This is a password generator that allows you to generate a 32 character long pas
 
 # Usage
 
-Download the .py file
+Run git clone https://github.com/numikFRKI/password-generator
+
+cd password-generator
 
 Run the .py file using python PassGen.py 
 
